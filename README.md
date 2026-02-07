@@ -15,8 +15,8 @@
   -	Store the file name in one variable.
   - Use try to write risky code that may cause an exception.
   -	Use with to open the file using open(file_name, "w").
-	-	w mode is used to write content into the file.
-	-	When we use with, there is no need to close the file manually.
-	-	Use a loop to write multiple lines into the file.
-	-	Use except to handle any exception that may occur.
-	-	Use else to confirm successful writing.
+  -	w mode is used to write content into the file.
+  -	When we use with, there is no need to close the file manually.
+  -	Use a loop to write multiple lines into the file.
+  -	Use except to handle any exception that may occur.
+  -	Use else to confirm successful writing.
